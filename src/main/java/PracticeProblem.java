@@ -4,17 +4,13 @@ public class PracticeProblem {
 		
 	}
 	public static int sum(int num1, int num2){
-
-	
 		return (num1 + num2);
 	}
 	public static int difference(int num1, int num2){
-
 		return (num1 - num2);
 	}
 	public static double product(double num1, double num2){ 
 		return (num1 * num2);
-		
 	}
 	public static String removeFirst(String text){
 		return (String)(text.substring(1));
